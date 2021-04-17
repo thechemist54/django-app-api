@@ -1,5 +1,5 @@
 FROM python:3.7-alpine
-MAINTAINER thechemist54
+
 
 ENV PYTHONUNBUFFERED 1
 
